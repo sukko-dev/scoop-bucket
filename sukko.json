@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sukko-dev/cli/releases/download/v1.0.0/sukko_1.0.0_windows_amd64.zip",
+            "bin": [
+                "sukko.exe"
+            ],
+            "hash": "1b3ef7e9043f0cfcda2831d874e584032ebd8db0062cd5ee4806388e87b1e733"
+        },
+        "arm64": {
+            "url": "https://github.com/sukko-dev/cli/releases/download/v1.0.0/sukko_1.0.0_windows_arm64.zip",
+            "bin": [
+                "sukko.exe"
+            ],
+            "hash": "0aa1a023d145bba1376b2bf27a42bfe356e68e81fb7c028514dc9672d541f5e9"
+        }
+    },
+    "homepage": "https://github.com/sukko-dev/cli",
+    "license": "MIT",
+    "description": "Sukko WebSocket platform CLI"
+}
