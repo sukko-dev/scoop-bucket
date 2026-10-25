@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sukko-dev/cli/releases/download/v1.2.1/sukko_1.2.1_windows_amd64.zip",
+            "url": "https://github.com/sukko-dev/cli/releases/download/v1.3.0/sukko_1.3.0_windows_amd64.zip",
             "bin": [
                 "sukko.exe"
             ],
-            "hash": "6eef74c35234d378c909932fda372c4a47323fabed17004ba8dce34dc158e5d6"
+            "hash": "aa15edef1b55933a5a6da865aba729b3f6e3cffa1e5bffeac2b42ebcd24e68b4"
         },
         "arm64": {
-            "url": "https://github.com/sukko-dev/cli/releases/download/v1.2.1/sukko_1.2.1_windows_arm64.zip",
+            "url": "https://github.com/sukko-dev/cli/releases/download/v1.3.0/sukko_1.3.0_windows_arm64.zip",
             "bin": [
                 "sukko.exe"
             ],
-            "hash": "8ef930a166f4370d51d7e481a6ffd680efe534bd8171aeec40bf2b47b72174c7"
+            "hash": "3df9e3a7dd0309c8d79d8a949a4980bdbd4cabbafe02017ea413514e10b319bb"
         }
     },
     "homepage": "https://github.com/sukko-dev/cli",
